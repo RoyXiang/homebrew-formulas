@@ -1,4 +1,4 @@
-class Mpv < Formula
+class MpvFs < Formula
   desc "Free, open source, and cross-platform media player"
   homepage "https://mpv.io"
   head "https://github.com/mpv-player/mpv.git", :branch => "native-fs"
